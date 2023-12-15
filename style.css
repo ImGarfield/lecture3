@@ -1,0 +1,23 @@
+h1{
+    background-color: green;
+    color: red;
+}
+
+table,
+td,
+th{
+    /* border-collapse: collapse; */
+    border-spacing: 2px;
+    border: 2px solid black;
+}
+
+th{
+    background-color: lightblue;
+    border: 2px dotted black;
+}
+
+td{
+    background-color: lightcoral;
+}
+
+
